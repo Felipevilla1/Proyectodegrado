@@ -6,3 +6,5 @@ Correo: developerprueba025@gmail.com
 Contraseña: prueba123
 
 Enlace para visualizar solamente: http://el-meta-en-tu-bolsillo.bubbleapps.io/version-test/
+
+Enlace video: https://youtu.be/RlPT9nBC-6I
